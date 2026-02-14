@@ -21,3 +21,6 @@ Este proyecto es un servidor web básico desarrollado con Node.js y Express que 
 - GET /random-data: Devuelve una palabra aleatoria de un conjunto predefinido (HTML).
 - PUT /random-data: Devuelve un número entero aleatorio entre 10 y 50,000 (HTML).
 - Otros métodos en /random-data: Responden con un mensaje indicando que no están implementados (texto plano).
+
+# Autor
+Fernanda Álvarez F. para programa FullStack JavaScript Sence.
