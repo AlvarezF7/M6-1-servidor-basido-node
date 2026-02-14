@@ -13,7 +13,7 @@ Este proyecto es un servidor web básico desarrollado con Node.js y Express que 
 - Express: Framework minimalista para crear servidores web en Node.js.
   
 # Estructura del Proyecto
-![Estructura del proyecto]()
+![Estructura del proyecto](https://github.com/AlvarezF7/M6-1-servidor-basido-node/blob/main/img/Estructura_proyecto.png)
 
 # Endpoints principales
 
