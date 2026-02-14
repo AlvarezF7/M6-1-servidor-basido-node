@@ -1,0 +1,15 @@
+
+body{
+    padding:2.5rem;
+}
+h1, p {color:rgb(100, 18, 177);}
+
+p{
+font-size: 23px;
+padding:1rem;
+width:200px;
+background: linear-gradient(135deg, #9bfcfc,#21b5da);
+border: 1px solid rgba(165, 93, 233, 0.719);
+border-radius: 5px;
+}
+   
